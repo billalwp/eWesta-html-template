@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a,
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {}
+
+button,
+input,
+select {
+    border: none;
+    outline: none;
+}
+
+body {
+    background: #fff;
+    font-size: 14px;
+    overflow-x: hidden;
+    position: relative;
+    font-family: ProximaNova-Regular;
+}
